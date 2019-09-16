@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>jquery sliders</title>
+    <title>892 sliders</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
-    <script type="text/javascript">
+    <script>
         var _siteRoot = 'tdc_mod_custom_17_B30.html',
             _root = 'tdc_mod_custom_17_B30.html';
     </script>
-    <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/scripts.js"></script>
-    <script src="js/ie6.js" type="text/javascript"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="js/ie6.js" ></script>
 </head>
 <body>
     <!--/top-->
@@ -33,7 +33,7 @@
                 </div>
                 <!--content featured gallery here -->
             </div>
-            <script type="text/javascript">
+            <script>
                 if (!window.slider)
                     var slider = {};
                 slider.data = [{
