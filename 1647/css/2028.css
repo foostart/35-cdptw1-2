@@ -1,0 +1,80 @@
+.type-2028 .nav {
+  margin-left: 100px;
+}
+.type-2028 .nav li a {
+  padding: 5px;
+  background: #fff;
+}
+.type-2028 .nav li a img {
+  background: #DFDFDF;
+}
+.type-2028 .nav li a img:hover {
+  background: #FF9000;
+}
+.type-2028 .row {
+  width: 1140px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 100;
+}
+.type-2028 .row .eightcol {
+  width: 65.4%;
+}
+.type-2028 .row .column {
+  margin-right: 3.8%;
+  float: left;
+  min-height: 1px;
+}
+.type-2028 .row .fivecol {
+  width: 39.45%;
+  margin-top: 20px;
+}
+.type-2028 .row .fivecol img {
+  width: 100%;
+}
+.type-2028 .row .sevencol {
+  width: 56.75%;
+}
+.type-2028 .row .sevencol .section-title {
+  overflow: hidden;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.6em;
+  border-bottom: 1px dotted grey;
+}
+.type-2028 .row .fourcol {
+  width: 30.75%;
+}
+.type-2028 .row .last {
+  margin-right: 0px !important;
+}
+.type-2028 .tab-content {
+  margin-bottom: 10px;
+}
+.type-2028 .quote-text {
+  font-size: 1.1em;
+  line-height: 1.6em;
+  font-style: italic;
+  padding: 1em 20px;
+  border: 1px solid #E2E2E2;
+}
+.type-2028 .quote-text .block-background {
+  font-family: sans-serif;
+}
+.type-2028 h6 {
+  color: #000;
+  font-family: "UTM Aristote";
+}
+@media (max-width: 768px) {
+  .type-2028 .fivecol {
+    margin-left: 20px;
+  }
+  .type-2028 .fourcol {
+    margin-left: 20px;
+  }
+  .type-2028 .sevencol {
+    margin-left: 20px;
+  }
+  .type-2028 .navbar-toggle {
+    margin-top: 15px;
+  }
+}
