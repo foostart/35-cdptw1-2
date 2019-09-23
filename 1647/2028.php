@@ -16,13 +16,12 @@
 <html lang="en">
     <head>
         <title>2028</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+        
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
         <link href="<?php echo $url_path ?>/css/2028.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="js/jquery-1.11.2.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
     </head>
     <body>
          <?php include '2028-content.php'; ?>

@@ -44,6 +44,11 @@
 .type-2028 .row .fourcol {
   width: 30.75%;
 }
+.type-2028 .row .fourcol .current {
+  display: block;
+  position: relative;
+  z-index: 1;
+}
 .type-2028 .row .last {
   margin-right: 0px !important;
 }

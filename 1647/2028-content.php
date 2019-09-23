@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>Đồ án 1647</title>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     
       <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
       <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
       <?php
@@ -14,11 +10,11 @@
          $less->compileFile('less/2028.less', 'css/2028.css');
          ?>
       <link href="css/2028.css" rel="stylesheet" type="text/css"/>
-      <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
-      <script src="js/bootstrap.min.js" type="text/javascript"></script>
-      <link rel=”stylesheet” href=”#” />
-   </head>
-   <body>
+      <script src="js/jquery-2.1.4.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      
+ 
+   
       <div class="type-2028">
          <section class="containersite-content">
             <div class="row">
@@ -36,11 +32,10 @@
                 
             <div class="fourcol column last col-sm-12">
                 <div id="main">
-                <h1 class="title-page"></h1>
                 <div class="group-tabs">
                 <div class="tab-content">
                     <div role="tabpanel" class="tab-pane active" id="home">
-                        <li class="current" style="display: block; position: relative; z-index: 1;">
+                       
                              <article class="testimonial">
                                 <div class="quote-text">
                                    <div class="block-background">
@@ -51,10 +46,10 @@
                                    Mary Templeton		
                                 </h6>
                              </article>
-                          </li>
+                         
                     </div>
                     <div role="tabpanel" class="tab-pane" id="profile">
-                       <li class="current" style="display: block; position: relative; z-index: 1;">
+                      
                              <article class="testimonial">
                                 <div class="quote-text">
                                    <div class="block-background">
@@ -65,10 +60,10 @@
                                   John Peterson	
                                 </h6>
                              </article>
-                          </li>
+                        
                     </div>
                     <div role="tabpanel" class="tab-pane" id="messages">
-                          <li class="current" style="display: block; position: relative; z-index: 1;">
+                         
                              <article class="testimonial">
                                 <div class="quote-text">
                                    <div class="block-background">
@@ -79,19 +74,19 @@
                                   Lisa Blackwood
                                 </h6>
                              </article>
-                          </li>
+                          
                     </div>
                 
                 </div>
                 <ul class="nav nav-tabs" role="tablist">
                     <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">
-                            <img src="images/1.png"></a>
+                            <img src="images/1.png" alt=""></a>
                     </li>
                             <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
-                              <img src="images/1.png">
+                              <img src="images/1.png" alt="">
                         </a></li>
                                 <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">
-                              <img src="images/1.png">
+                              <img src="images/1.png" alt="">
                             </a></li>
                 </ul>
 
@@ -99,8 +94,8 @@
            
             </div>
             </div>
+          </div>
          </section>
          
       </div>
-   </body>
-</html>
+  
