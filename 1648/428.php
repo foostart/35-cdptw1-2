@@ -22,7 +22,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Module 428</title>
+        <title>Module 1648</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path ?>/css/428.css" rel="stylesheet" type="text/css"/>
@@ -31,6 +31,6 @@
         <script src="js/bootstrap.min.js"></script>
     </head>
     <body>
-      <?php include '../428/428-content.php';  ?>
+      <?php include '428-content.php';  ?>
 </body>
 </html>

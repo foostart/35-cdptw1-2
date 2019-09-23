@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Đồ án</title>
+      <title>Đồ án 1647</title>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
@@ -94,34 +94,10 @@
                               <img src="images/1.png">
                             </a></li>
                 </ul>
-            
-              
-                
+
               </div>
            
             </div>
-                  <!--<div class="content-slider testimonials-slider fade-effect">
-                     <ul style="height: 129px;">
-                        
-                        
-                        <li style="position: relative; z-index: 1; display: none;" class="">
-                           <article class="testimonial">
-                              <div class="quote-text">
-                                 <div class="block-background">
-                                    Thank you for the marvelous trip you arranged in India. We could never have put together such a well-planned visit by ourselves. Amazing!			
-                                 </div>
-                              </div>
-                              <h6 class="quote-author">
-                                 Lisa Blackwood		
-                              </h6>
-                           </article>
-                        </li>
-                     </ul>
-                     <input type="hidden" class="slider-pause" value="0"><input type="hidden" class="slider-speed" value="400">
-                     <div class="controls"><a href="#" class="current"></a><a href="#" class=""></a><a href="#" class=""></a></div>
-                  </div>
-               </div>--> 
-               <div class="clear"></div>
             </div>
          </section>
          

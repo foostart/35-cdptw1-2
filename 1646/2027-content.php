@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Đồ án</title>
+      <title>Đồ án 1646</title>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
@@ -23,12 +23,14 @@
       <div id="main">
       <div class="container">
       <div class="group-tabs">
+        
       <!-- Nav tabs -->
       <ul class="nav nav-tabs" role="tablist">
          <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Discover</a></li>
          <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Organic</a></li>
          <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Our Products</a></li>
          <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Contact</a></li>
+
       </ul>
       <!-- Tab panes -->
       <div class="tab-content">

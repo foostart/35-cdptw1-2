@@ -28,7 +28,9 @@
                     <div id="slide-controls">
                         <p id="slide-client" class="text"><strong>post: </strong><span></span></p>
                         <p id="slide-desc" class="text"></p>
-                        <p id="slide-nav"></p>
+                        <p id="slide-nav">
+                            
+                        </p>
                     </div>
                 </div>
                 <!--content featured gallery here -->

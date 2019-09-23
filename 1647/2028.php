@@ -25,6 +25,6 @@
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
     </head>
     <body>
-         <?php include '../2028/2028-content.php'; ?>
+         <?php include '2028-content.php'; ?>
     </body>
 </html>
