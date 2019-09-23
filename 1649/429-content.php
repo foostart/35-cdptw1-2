@@ -24,77 +24,73 @@
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse" id="menu-tonggle">
             <ul class="nav navbar-nav">
+            
+                <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           LAYOUTS <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                            </div>
+                        </li>
                 <li>
-                    <a href="#">LAYOUTS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                    <ul class="sub-menu">
-                        <li><a href="#">FASHION 1</a></li>
-                        <li><a href="#">FASHION 2</a></li>
-                        <li><a href="#">FASHION 3</a></li>
-                        <li><a href="#">ELECTRONICS 1</a></li>
-                        <li><a href="#">ELECTRONICS 2</a></li>
-                        <li><a href="#">FUNITURES</a></li>
-                        <li><a href="#">NUTRITION</a></li>
-                    </ul>
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PAGES <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                            </div>
                 </li>
                 <li>
-                    <a href="#">PAGES <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                    <ul class="sub-menu">
-                        <li>
-                            <a href="#">PRODUCT PAGE <i class="fa fa-angle-right show-right" aria-hidden="true"></i></a>
-                            <ul class="sub-menu" id="child">
-                                <li><a href="#">PRODUCT PAGE VARIANT 1</a></li>
-                                <li><a href="#">PRODUCT PAGE VARIANT 2</a></li>
-                                <li><a href="#">PRODUCT PAGE VARIANT 3</a></li>
-                                <li><a href="#">PRODUCT PAGE VARIANT 4</a></li>
-                                <li><a href="#">PRODUCT PAGE VARIANT 5</a></li>
-                            </ul>
+                  
+                     <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           FEATURES <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                            </div>
                         </li>
-                        <li>
-                            <a href="#">CATEGORY PAGE <i class="fa fa-angle-right show-right" aria-hidden="true"></i></a>
-                            <ul class="sub-menu" id="child">
-                                <li><a href="#">LEFT SIDEBAR FILTER</a></li>
-                                <li><a href="#">RIGHT SIDEBAR FILTER</a></li>
-                                <li><a href="#">EMPTY CATEGORY</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#">CART & CHECKOUT</a>
-                        </li>
-                        <li>
-                            <a href="#">ACCOUNT <i class="fa fa-angle-right show-right" aria-hidden="true"></i></a>
-                            <ul class="sub-menu" id="child">
-                                <li><a href="#">LOGIN</a></li>
-                                <li><a href="#">CREATE ACCOUNT</a></li>
-                                <li><a href="#">DETAIL ACCOUNT</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">BLOG</a></li>
-                    </ul>
                 </li>
                 <li>
-                    <a href="#">FEATURES <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                    <ul class="sub-menu">
-                        <li><a href="#">HEADER</a></li>
-                        <li><a href="#">FOOTER</a></li>
-                        <li><a href="#">BANNERS / GRID EDITOR</a></li>
-                    </ul>
+                   
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           NEW ARRIVALS  <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                            </div>
+                        </li>
                 </li>
                 <li>
-                    <a href="#">NEW ARRIVALS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                    <ul class="sub-menu">
-                        <li><a href="#">SHOES</a></li>
-                        <li><a href="#">TOPS</a></li>
-                        <li><a href="#">BOTTOMS</a></li>
-                        <li><a href="#">BAGS</a></li>
-                        <li><a href="#">ACCESORIES</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="#">SHOP BY <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                    <ul class="sub-menu">
-                        <li><a href="#">MEN</a></li>
-                        <li><a href="#">WOMAN</a></li>
-                    </ul>
+                  
+                     <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           SHOP BY <i class="fa fa-angle-down" aria-hidden="true"></i>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                                <a class="dropdown-item" href="#">FASHION 1</a>
+                            </div>
+                        </li>
                 </li>
                 <li>
                     <a href="#">BUY THEME</a>

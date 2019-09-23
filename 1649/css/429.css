@@ -150,6 +150,16 @@
 .type-429 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
+@media all and (max-width: 480px) {
+  .type-429 .nav {
+    color: red;
+    display: table-caption;
+    margin-left: 1px;
+  }
+  .type-429 .navbar-collapse.in {
+    background: lightblue;
+  }
+}
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
