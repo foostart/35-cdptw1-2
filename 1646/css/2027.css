@@ -13,11 +13,31 @@
   color: #fff;
   background-color: green;
 }
+.type-2027 h1 {
+  font-weight: bold;
+  font-size: 4em;
+  padding-left: 10px;
+  margin-top: -2px;
+  font-family: serif;
+}
+.type-2027 h5 {
+  font-family: auto;
+  font-size: 1.4em;
+  letter-spacing: 4px;
+  font-weight: bold;
+  color: #646860;
+}
+.type-2027 h4 {
+  font-family: initial;
+}
+.type-2027 .banner-top {
+  padding-top: 20px;
+}
 .type-2027 .banner-top .text-content {
-  padding-left: 0;
+  padding-left: 20px;
   width: 40%;
   position: absolute;
-  top: 40%;
+  top: 35%;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -o-transform: translateY(-50%);
@@ -25,12 +45,15 @@
 }
 .type-2027 .banner-top .text-content h4 {
   color: #6c8e01;
-  font-size: 187.5%;
+  font-size: 256.5%;
   font-weight: 900;
   text-transform: capitalize;
   margin: 0;
   position: relative;
   z-index: 2;
+}
+.type-2027 .banner-top .text-content ul li {
+  list-style: none;
 }
 .type-2027 .banner-top .text-content .text-readmore {
   color: #6c8e01;
@@ -40,6 +63,10 @@
   padding: 12px 30px;
   display: inline-block;
   font-weight: 700;
+  text-decoration: none;
+}
+.type-2027 .banner-top .text-content .text-readmore:hover {
+  color: #5fbf00;
 }
 .type-2027 img {
   max-width: 100%;
@@ -116,4 +143,29 @@
 .type-2027 .item-product p {
   color: orange;
   text-align: center;
+}
+@media screen and (max-width: 480px) {
+  .type-2027 .tt {
+    padding-top: 50px;
+  }
+  .type-2027 .col-md-12 {
+    width: 360px;
+    text-align: justify;
+  }
+  .type-2027 ul li {
+    width: 360px;
+  }
+  .type-2027 .text-readmore {
+    font-size: 11px !important;
+  }
+  .type-2027 h5 {
+    width: 360px;
+    padding-top: 20px;
+  }
+  .type-2027 h1 {
+    font-size: 2.1em;
+  }
+  .type-2027 h4 {
+    margin-left: -24px !important;
+  }
 }

@@ -17,12 +17,11 @@
     <head>
         <title>2027</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet"  />
         <link href="<?php echo $url_path ?>/css/2027.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        
     </head>
     <body>
          <?php include '2027-content.php'; ?>

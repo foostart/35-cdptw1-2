@@ -16,24 +16,50 @@
             background-color: green;
         }
     }
+    h1{
+        font-weight: bold;
+        font-size: 4em;
+        padding-left: 10px;
+        margin-top: -2px;
+        font-family: serif;
+
+    }
+    h5{
+        font-family: auto;
+            font-size: 1.4em;
+            letter-spacing: 4px;
+            font-weight: bold;
+            color: #646860;
+    }
+    h4{
+        font-family: initial;
+    }
+    .banner-top{
+        padding-top: 20px;
+    }
     .banner-top .text-content {
-    padding-left: 0;
+
+    padding-left:20px;
     width: 40%;
     position: absolute;
-    top: 40%;
+    top:35%;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -o-transform: translateY(-50%);
     transform: translateY(-50%);
             h4 {
         color: #6c8e01;
-        font-size: 187.5%;
+        font-size: 256.5%;
         font-weight: 900;
         text-transform: capitalize;
         margin: 0;
         position: relative;
         z-index: 2;
         
+    }
+    ul li {
+        list-style: none;
+
     }
         .text-readmore {
         color: #6c8e01;
@@ -43,7 +69,11 @@
         padding: 12px 30px;
         display: inline-block;
         font-weight: 700;
+        text-decoration: none;
         }
+         .text-readmore:hover{
+            color:#5fbf00;
+         }
     }
     img {
             max-width: 100%;
@@ -68,6 +98,7 @@
         text-transform: capitalize;
         margin: 0;
         position: relative;
+
         z-index: 2;
             }
         .text-readmore {
@@ -78,6 +109,7 @@
         padding: 12px 30px;
         display: inline-block;
         font-weight: 700;
+
             }
         }
     }
@@ -130,6 +162,44 @@
                 text-align: center;
             }
     }
+
+
+@media screen and (max-width: 1024px) {
+
+   
+}
+/*Ipad dọc(768 x 1024)*/
+@media screen and (max-width: 750px) {
+  
+}
+/*Tablet nhỏ(480 x 640)*/
+@media screen and (max-width: 480px) {
+    .tt{
+    padding-top: 50px;
+    }
+    .col-md-12{
+        width: 360px;
+            text-align: justify;
+    }
+    ul li{
+         width: 360px;
+    }
+    .text-readmore{
+        font-size: 11px !important;
+    }
+    h5{
+        width: 360px;
+        padding-top: 20px;
+    }
+    h1{
+        font-size: 2.1em;
+    }
+    h4{
+           
+    margin-left: -24px !important;
+    }
+
+}
 }
 
 
