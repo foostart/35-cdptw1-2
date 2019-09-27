@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
     <title>892 sliders</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+   
+
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen">
     <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
    
 </head>
 <body>
-    <?php include '/982-content.php'; ?>
+    <?php include '982-content.php'; ?>
     <!--/top-->
     
     <!--/header-->
@@ -20,12 +22,14 @@
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/ie6.js" ></script>
-<script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
+    <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
  <script>
-                new Swiper('.swiper-container', {
+        new Swiper('.swiper-container', {
       navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
       },
     });
-            </script>
+
+</script>
+
