@@ -1,0 +1,39 @@
+.type-982 {
+  height: 100%;
+  color: #a4a4a4;
+  cursor: default;
+  font-size: 11px;
+  line-height: 16px;
+  background-color: #000;
+  background-repeat: no-repeat;
+  font-family: Tahoma, sans-serif;
+  position: relative;
+}
+.type-982 .header {
+  width: 900px;
+  height: 271px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
+.type-982 .header .swiper-container {
+  padding: 6px;
+  width: 100%;
+  height: 100%;
+}
+.type-982 .header .swiper-container .swiper-wrapper .swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+.type-982 .header .swiper-container .swiper-wrapper .swiper-slide .chu {
+  padding: 10px 2px;
+  float: left;
+  background: #6c72775e;
+  width: 100%;
+  text-transform: uppercase;
+}
+.type-982 .header .wrap {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}

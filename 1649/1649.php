@@ -14,30 +14,29 @@
     }
 
     $less = new lessc;
-    $less->compileFile('less/429.less', 'css/429.css');
+    $less->compileFile('less/1649.less', 'css/1649.css');
 
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>429</title>
+        <title>1649</title>
 
         <meta charset="utf-8">
         <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path ?>/css/429.css" rel="stylesheet" type="text/css"/>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css" type="text/css" media="all" />
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-        <script src="js/429.js"></script>
+        <link href="<?php echo $url_path ?>/css/1649.css" rel="stylesheet" type="text/css"/>
+        <script src="<?php echo $url_path ?>/js/jquery.min.js"></script>
+        
+        <script src="<?php echo $url_path ?>/js/1649.js"></script>
         
         
-        <script src="js/bootstrap.min.js"></script>
+        <script src="<?php echo $url_path ?>/js/bootstrap.min.js"></script>
     </head>
     <body>
-        <?php include $dir_block.'/429-content.php'; ?>
+        <?php include $dir_block.'/1649-content.php'; ?>
 
     </body>
     

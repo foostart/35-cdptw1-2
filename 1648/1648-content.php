@@ -8,7 +8,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 
-<div class="type-428">
+<div class="type-1648">
    <div class="container">
       <div class="row">
          <nav class="navbar navbar-default">

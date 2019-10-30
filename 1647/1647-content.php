@@ -1,21 +1,9 @@
 
      
-      <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-      <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-      <?php
-         if (!class_exists('lessc')) {
-             include ('./libs/lessc.inc.php');
-         }
-         $less = new lessc;
-         $less->compileFile('less/2028.less', 'css/2028.css');
-         ?>
-      <link href="css/2028.css" rel="stylesheet" type="text/css"/>
-      <script src="js/jquery-2.1.4.min.js"></script>
-      <script src="js/bootstrap.min.js"></script>
       
  
    
-      <div class="type-2028">
+      <div class="type-1647">
          <section class="containersite-content">
             <div class="row">
                <div class="eightcol column col-sm-12">
