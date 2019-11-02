@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
     $url_host = 'http://'.$_SERVER['HTTP_HOST'];
     $pattern_document_root = addcslashes(realpath($_SERVER['DOCUMENT_ROOT']), '\\');
@@ -19,25 +19,20 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>1649</title>
+<head>
+  <title>1649</title>
 
-        <meta charset="utf-8">
-        <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path ?>/css/1649.css" rel="stylesheet" type="text/css"/>
-        <script src="<?php echo $url_path ?>/js/jquery.min.js"></script>
-        
-        <script src="<?php echo $url_path ?>/js/1649.js"></script>
-        
-        
-        <script src="<?php echo $url_path ?>/js/bootstrap.min.js"></script>
-    </head>
-    <body>
-        <?php include $dir_block.'/1649-content.php'; ?>
+  <meta charset="utf-8">
+ 
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" type="text/css" href="css/1649.css">
+  <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+  <link rel="stylesheet" type="text/css" href="<?php echo $url_path ?>/css/bootstrap.min.css">
+  <script src="<?php echo $url_path ?>/js/jquery.min.js"></script>
+  <script src="<?php echo $url_path ?>/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <?php include './1649-content.php'; ?>
+</body>
 
-    </body>
-    
 </html>
